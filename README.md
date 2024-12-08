@@ -1,7 +1,7 @@
 - 👋 Hi, this is @Arist12
-- 🌱 I'm currently doing a CS PhD at the University of Wisconsin-Madison
+- 🌱 I'm a CS PhD student at UW-Madison
 - 🚦 Before that, I got my Bachelor's degree in Computer Science (IEEE Honor Class) from Shanghai Jiao Tong University
-- ✨ These days, I'm interested in enhancing and deepening our theoretical understanding of large language models (LLMs)
+- ✨ These days, I'm interested in efficient inference of LLMs
 - 📫 Reach me by E-Mail: ykzhang@cs.wisc.edu
 
 
