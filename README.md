@@ -1,7 +1,7 @@
 - 👋 Hi, this is @Arist12
-- 🌱 I'm a CS PhD student at UW-Madison
-- 🚦 Before that, I got my Bachelor's degree in Computer Science (IEEE Honor Class) from Shanghai Jiao Tong University
-- ✨ These days, I'm interested in efficient inference of LLMs
+- 🌱 I'm a 1st Year CS PhD student at UW-Madison
+- 🚦 Before that, I got my Bachelor's in CS (IEEE Honor Class) from Shanghai Jiao Tong University
+- ✨ My current research focus is LLM efficiency
 - 📫 Reach me by E-Mail: ykzhang@cs.wisc.edu
 
 
