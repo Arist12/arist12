@@ -1,5 +1,5 @@
 - 👋 Hi, this is @Arist12
-- 🌱 I'm a 1st Year CS PhD student at UW-Madison, and I'm generally interested in natural language processing
+- 🌱 I'm a second-year CS PhD student at UW-Madison. I'm generally interested in large language models (LLMs)
 - 🚦 Before that, I got my Bachelor's in CS (IEEE Honor Class) from Shanghai Jiao Tong University
 - 📫 Reach me by email: ykzhang@cs.wisc.edu
 
