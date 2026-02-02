@@ -1,10 +1,14 @@
-- 👋 Hi, I'm @Arist12
-- 🧑‍🎓 I'm a second-year CS PhD student at UW-Madison, working on large language models
-- 🎓 I completed my Bachelor's in CS (IEEE Honor Class) at Shanghai Jiao Tong University
-- 📫 Reach me by email: ykzhang@cs.wisc.edu
+## Hi, I'm Yikai Zhang 👋
+🎓 **CS PhD student** @ UW-Madison  
+🔬 **Research focus:** LLM Coding Agents
 
+### Experience
+- Research Scientist Intern @ **AMD** (Jan 2026 - Present)
+- Applied Scientist Intern @ **Microsoft** (Jun 2025 - Jan 2026) ([SWE-Edit](https://github.com/microsoft/SWE-Edit))
 
-<!---
-Arist12/Arist12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Education
+- Ph.D. in Computer Science, University of Wisconsin-Madison
+- B.Eng. in Computer Science (IEEE Honor Class), Shanghai Jiao Tong University
+
+### Contact
+📧 ykzhang@cs.wisc.edu
