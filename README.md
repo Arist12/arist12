@@ -1,6 +1,5 @@
 ## Hi, I'm Yikai Zhang 👋
-🎓 **CS PhD student** @ UW-Madison  
-🔬 **Research focus:** LLM Coding Agent
+🔬 **Research focus:** LLM Agent
 
 ### Experience
 - Research Scientist Intern @ **AMD** (Jan 2026 - Present)
