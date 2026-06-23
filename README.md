@@ -6,7 +6,8 @@ I'm broadly interested in LLMs.
 
 
 ### Experience
-- Research Scientist Intern @ **AMD** (Jan 2026 – Present)
+- Member of Technical Staff @ **AMD** (Jun 2026 - Present)
+- Research Scientist Intern @ **AMD** (Jan 2026 – Jun 2026)
 - Applied Scientist Intern @ **Microsoft** (Jun 2025 – Jan 2026)
 
 ### Education
