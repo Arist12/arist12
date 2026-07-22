@@ -1,6 +1,6 @@
 ## Hi, I'm Yikai Zhang 👋
 
-I build AI agents for GPU kernels @ AMD.
+I build AI agents @ AMD.
 
 I'm broadly interested in LLMs.
 
